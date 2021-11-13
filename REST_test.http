@@ -13,5 +13,5 @@ Content-Type: application/json
     "Title": "1984",
     "Author": "George Orwell",
     "Publisher": "Some Dudes",
-    "Year": "1985-01-02"
+    "Year": "1985"
 }
