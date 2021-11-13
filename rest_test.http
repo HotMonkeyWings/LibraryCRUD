@@ -1,0 +1,17 @@
+GET http://localhost:3000/api/v1/books HTTP/1.1
+
+###
+
+GET http://localhost:3000/api/v1/books/1 HTTP/1.1
+
+###
+
+POST http://localhost:3000/api/v1/books HTTP/1.1
+Content-Type: application/json
+
+{
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Publisher": "Some Dudes",
+    "Year": "1985-01-02"
+}
