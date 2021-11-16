@@ -186,7 +186,7 @@ Here are the HTTP requests that have been stated in the question, their response
 }
 ```
 ![GET2](screenshots/image1.png)
-![GET2](screenshots/image5.png)
+![GET2](screenshots/image4.png)
 
 ### POST to Create a New Book
 On a succesful POST request, a response will be given back in JSON format of the newly added book.
@@ -220,5 +220,5 @@ Content-Type: application/json
     }
 }
 ```
-![POST](screenshots/image4.png)
+![POST](screenshots/image5.png)
 
