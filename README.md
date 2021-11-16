@@ -222,3 +222,8 @@ Content-Type: application/json
 ```
 ![POST](screenshots/image5.png)
 
+## Contribution
+
+- Anish Sharma - GET request for Books, Documentation, Database Changes
+- Arjun Syam - GET request for Books based on ID, API Testing, Seed Database Values
+- Dev Sony - POST request to add a Book, Database Migration/Creation, Documentation
